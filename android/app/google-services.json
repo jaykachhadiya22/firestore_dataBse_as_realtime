@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "990986728854",
+    "project_id": "fir-storage-6f1f4",
+    "storage_bucket": "fir-storage-6f1f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990986728854:android:b6cfb9e6122ff1415f99b7",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990986728854-ms3ie3h8q3c95iufl9gar8fb2fan93or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SrbkQNQQQHrVkVuzxKygRffybaT40Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990986728854-ms3ie3h8q3c95iufl9gar8fb2fan93or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990986728854:android:cbbfb8ba681a3a4f5f99b7",
+        "android_client_info": {
+          "package_name": "com.example.real_time_data_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990986728854-n1l4oecfpra93s0mkspmee55ij2gm9lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.real_time_data_storage",
+            "certificate_hash": "9961919dc5d183b7128dcfdf54c98d77efc20fe3"
+          }
+        },
+        {
+          "client_id": "990986728854-ms3ie3h8q3c95iufl9gar8fb2fan93or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SrbkQNQQQHrVkVuzxKygRffybaT40Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990986728854-ms3ie3h8q3c95iufl9gar8fb2fan93or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
